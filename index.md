@@ -3,7 +3,7 @@ layout: page
 title: bds311
 ---
 
-table>
+<table>
 <tr>
 <td class="header">Date</td>
 <td class="header">Topic</td>
