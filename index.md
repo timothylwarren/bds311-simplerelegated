@@ -3,6 +3,11 @@ layout: page
 title: bds311
 ---
 
+|Date | Topic | Assignment |
+| --- | ----- | ---------- |
+| Tues 3/30 | Intro to Data Science and Biology | Asst1|
+
+
 <table>
 <tr>
 <td class="header">Date</td>
