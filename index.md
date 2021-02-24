@@ -5,7 +5,7 @@ title: bds311
 
 
 
-| Date &nbsp; &nbsp; &nbsp; &nbsp; 	|   Topic &nbsp; &nbsp; &nbsp; &nbsp;	|  Assignment 	|
+| <div style=width:290px"> Date </div>  	|   Topic &nbsp; &nbsp; &nbsp; &nbsp;	|  Assignment 	|
 |---	|---	|---	|
 |  Tues 3/30 	|  Intro to Data Science and Biology 	|  Asst1 	|
 |   	|   	|   	|
